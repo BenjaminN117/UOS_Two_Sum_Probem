@@ -1,1 +1,10 @@
-Hello there, these are the instructions
+--------- UOS Hacktoberfest 2022 ---------
+
+
+
+
+
+
+
+
+------------------ FIN -------------------
