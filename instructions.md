@@ -18,6 +18,7 @@ Rules:
 3) Clone main.py as a starting base for your solution
 4) More than one person can publish solutions to this problem
 5) Your are more than welcome to copy code, so long as you can explain how it works!!
+6) If you get stuck, Google it before asking us!!
 
 Please add your answers to the "src" directory with the filename "UOS_ID.ISSUE_NAME.py"
 
