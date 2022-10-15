@@ -1,3 +1,8 @@
+'''
+Product:
+Description:
+Author:
+'''
 from generator import listClass
 
 class Solution():
